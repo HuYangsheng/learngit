@@ -10,4 +10,5 @@ Now I have learned some skills about git,they are as following:
     git reflog # find all commit id you commited
 
     git reset --hard [HEAD^|commit id] # to restore file version
-   
+    git rm <file> # delete file from depository, but you can restore it by using git 
+		  # reset --hard <file>   
