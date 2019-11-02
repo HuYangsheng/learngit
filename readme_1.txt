@@ -1,4 +1,5 @@
-This is a new file, I will try git add again.
+This is a new file, I will put the git commands that I learned new into it.
+
 Now I have learned some skills about git,they are as following:
     git add filename # when you modified a file or create a new file, you can use git
 		     # to add this file so that it can be managed by git.
