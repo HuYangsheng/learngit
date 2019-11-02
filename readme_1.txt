@@ -35,6 +35,15 @@ Now I have learned some skills about git,they are as following:
        	 	  # master branch, you need change to master first.
     git branch -d dev # delete dev branch
     git log --graph # show the branch merge graph
+    git merge --no-ff -m "merge with no-ff" dev  # 
+    git stash # to stash your current work so that you can do something emergency.
+    git stash list # look up the stash work list
+    git stash apply # recover the work you stashed but it will still in the stash list
+    git stash pop # recover the work you stashed and delete it from stash list, recommend!
+    git cherry-pick <commit_id> # copy a special commit into current branch
+    git branch -D <branch_name> # delete the unmerged branch, use -D
+
+
 
 
 
