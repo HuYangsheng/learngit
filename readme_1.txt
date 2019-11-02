@@ -21,7 +21,7 @@ Now I have learned some skills about git,they are as following:
              	  # help you to make connection to your remote github
     git push -u origin master  # push the master on your desktop to remote github and
  			       # merge the master together
-    git pull # 
+    git pull git@github.com:HuYangsheng/learngit.git  # pull remote into local 
     git remote set-url origin git@github.com:HuYangsheng/learngit.git 
 		  # update the existiong one if you don't need it 
 		  # when you delete the repository in github please use it to update
