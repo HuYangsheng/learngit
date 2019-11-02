@@ -26,5 +26,15 @@ Now I have learned some skills about git,they are as following:
     git clone git@github.com:HuYangsheng/gitskills.git
 	   	  # first the file gitskills.git should be existed in github, then you
 		  # can use this commands to clone it from github to your desktop
+    git checkout -b dev # create a branch named "dev", it equals to 
+			# git branch dev ## create a branch
+			# git checkout dev ## switch to dev branch
+    git branch # look up current branch
+    git checkout master # switch to master branch
+    git merge dev # merge dev branch onto current branch, if you want to merge it onto
+       	 	  # master branch, you need change to master first.
+    git branch -d dev # delete dev branch
 
-  
+
+
+
