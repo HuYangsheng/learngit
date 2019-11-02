@@ -34,7 +34,7 @@ Now I have learned some skills about git,they are as following:
     git merge dev # merge dev branch onto current branch, if you want to merge it onto
        	 	  # master branch, you need change to master first.
     git branch -d dev # delete dev branch
-
+    git log --graph # show the branch merge graph
 
 
 
