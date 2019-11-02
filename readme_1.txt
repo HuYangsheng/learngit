@@ -41,7 +41,7 @@ Now I have learned some skills about git,they are as following:
     git stash apply # recover the work you stashed but it will still in the stash list
     git stash pop # recover the work you stashed and delete it from stash list, recommend!
     git cherry-pick <commit_id> # copy a special commit into current branch
-
+    git branch -D <branch_name> # delete the unmerged branch, use -D
 
 
 
