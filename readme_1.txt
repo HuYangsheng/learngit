@@ -35,6 +35,6 @@ Now I have learned some skills about git,they are as following:
        	 	  # master branch, you need change to master first.
     git branch -d dev # delete dev branch
     git log --graph # show the branch merge graph
-
+    git merge --no-ff -m "merge with no-ff" dev  # 
 
 
