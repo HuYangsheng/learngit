@@ -11,4 +11,9 @@ Now I have learned some skills about git,they are as following:
 
     git reset --hard [HEAD^|commit id] # to restore file version
     git rm <file> # delete file from depository, but you can restore it by using git 
-		  # reset --hard <file>   
+		  # reset --hard <file>
+    git remote add origin https://github.com/HuYangsheng/learngit_new.git 
+             	  # help you to make connection to your remote github
+    git push -u origin master  # push the master on your desktop to remote github and
+ 			       # merge the master together
+   
